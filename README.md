@@ -1,5 +1,5 @@
 
-#Get started
+# Get started
 
 1. Open a command prompt or bash window, and run the commands:
 
