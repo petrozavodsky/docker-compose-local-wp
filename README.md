@@ -1,5 +1,5 @@
 
-#Get started
+# Get started
 
 1. Open a command prompt or bash window, and run the commands:
 
@@ -13,3 +13,14 @@
 
 4. Open this URL (`http://my-domain.lc/`) in your browser
 
+# Additionally
+
+`stop.sh` - stop all containers
+
+`remove-containers.sh` - delete all containers
+
+`run.sh` - run docker composer
+
+`db-dump.sh` - saves the database dump to the mariadb-init directory
+
+`mariadb-init` - Directory for importing*. sql files into a container
