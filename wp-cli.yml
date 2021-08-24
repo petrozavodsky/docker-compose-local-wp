@@ -1,0 +1,5 @@
+path: public_html/
+# Нужно заменить домен на собственный
+url: http://my-domain.lc/
+color: true
+require: wp-cli.local.php
