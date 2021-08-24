@@ -2,11 +2,6 @@ version: "3"
 
 services:
 
-  # Необходимо указать хост базы данных в wp-config.php таким образом
-  #  /** MySQL hostname */
-  #    if ( ! defined( 'DB_HOST' ) ) {
-  #    define( 'DB_HOST', 'mariadb' );
-  #  }
   mariadb:
     image: wodby/mariadb:latest
     container_name: "site_mariadb"
